@@ -1,4 +1,4 @@
-# Webpack Starter
+# Webpack Starter 2021
 
 Este es el proyecto iniciual para crear aplicaciones usando Webpack
 
