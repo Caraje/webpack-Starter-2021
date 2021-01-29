@@ -1,0 +1,10 @@
+/* Este es el estilo del Main */
+
+html, body {
+    background-color: grey;
+}
+
+img {
+    max-width: 150px;
+}
+
